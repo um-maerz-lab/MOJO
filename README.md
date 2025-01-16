@@ -1,7 +1,7 @@
 # Mobile Joint Operator (MoJO)
 v1.0 - Oct. 2023
 Maerz Lab, Department of Orthopaedic Surgery, University of Michigan
-Primary Contact: Mike Newton (nemichae@med.umich.edu)
+Primary Contact: Mike Newton (nemichae@umich.edu)
 --------------------------------------------------------------------
 
 This package includes:
